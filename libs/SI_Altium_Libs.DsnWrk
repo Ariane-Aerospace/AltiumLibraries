@@ -34,3 +34,5 @@ ProjectPath=transistors.LibPkg
 ProjectPath=optoelectronix.LibPkg
 [Project17]
 ProjectPath=memory.LibPkg
+[Project18]
+ProjectPath=Tmp\SergeyIvlev_tmp.LibPkg

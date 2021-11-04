@@ -1,0 +1,10 @@
+serejaivlev@gmail.com
+SSDDNFDG
+D:\Downloads
+D:\Downloads\AltiumLL\SamacSys.SchLib
+D:\Downloads\AltiumLL\SamacSys.PcbLib
+0
+
+80
+True
+True

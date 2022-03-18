@@ -36,3 +36,7 @@ ProjectPath=optoelectronix.LibPkg
 ProjectPath=memory.LibPkg
 [Project18]
 ProjectPath=Tmp\SergeyIvlev_tmp.LibPkg
+[Project19]
+ProjectPath=Wireless.LibPkg
+[Project20]
+ProjectPath=..\..\..\..\Users\Sergey\Desktop\My\MicroSatV3\OBC\On-Board computer.PrjPcb
